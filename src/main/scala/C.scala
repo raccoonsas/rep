@@ -1,5 +1,6 @@
 class C {
 
-  val p: String = "P"
+  val p: String = "C"
+  val px: String = "PX"
 
 }
