@@ -1,4 +1,4 @@
 class Clazz {
 
-  val i: Int = 7
+  val i: Int = 9
 }
