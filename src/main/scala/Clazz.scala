@@ -1,6 +1,6 @@
 class Clazz {
 
-  val i: Int = 100
-  val ig: Int = 100
-  val s: String = "M"
+  val i: Int = 1000
+  val ig: Int = 1000
+  val s: String = "G"
 }
